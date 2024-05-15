@@ -1,0 +1,156 @@
+@article{chakravarthi2023detecting,
+  title={Detecting abusive comments at a fine-grained level in a low-resource language},
+  author={Chakravarthi, Bharathi Raja and Priyadharshini, Ruba and Banerjee, Shubanker and Jagadeeshan, Manoj Balaji and Kumaresan, Prasanna Kumar and Ponnusamy, Rahul and Benhur, Sean and McCrae, John Philip},
+  journal={Natural Language Processing Journal},
+  volume={3},
+  pages={100006},
+  year={2023},
+  publisher={Elsevier}
+}
+
+
+@article{saleh2023detection,
+  title={Detection of hate speech using BERT and hate speech word embedding with deep model},
+  author={Saleh, Hind and Alhothali, Areej and Moria, Kawthar},
+  journal={Applied Artificial Intelligence},
+  volume={37},
+  number={1},
+  pages={2166719},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
+
+
+@article{mazari2023bert,
+  title={BERT-based ensemble learning for multi-aspect hate speech detection},
+  author={Mazari, Ahmed Cherif and Boudoukhani, Nesrine and Djeffal, Abdelhamid},
+  journal={Cluster Computing},
+  pages={1--15},
+  year={2023},
+  publisher={Springer}
+}
+
+
+@article{khan2023offensive,
+  title={Offensive Language Detection for Low Resource Language Using Deep Sequence Model},
+  author={Khan, Anas Ali and Iqbal, M Hammad and Nisar, Shibli and Ahmad, Awais and Iqbal, Waseem},
+  journal={IEEE Transactions on Computational Social Systems},
+  year={2023},
+  publisher={IEEE}
+}
+
+
+@article{quoc2023vietnamese,
+  title={Vietnamese hate and offensive detection using PhoBERT-CNN and social media streaming data},
+  author={Quoc Tran, Khanh and Trong Nguyen, An and Hoang, Phu Gia and Luu, Canh Duc and Do, Trong-Hop and Van Nguyen, Kiet},
+  journal={Neural Computing and Applications},
+  volume={35},
+  number={1},
+  pages={573--594},
+  year={2023},
+  publisher={Springer}
+}
+
+
+@article{anand2023deep,
+  title={Deep learning and natural language processing in computation for offensive language detection in online social networks by feature selection and ensemble classification techniques},
+  author={Anand, Manish and Sahay, Kishan Bhushan and Ahmed, Mohammed Altaf and Sultan, Daniyar and Chandan, Radha Raman and Singh, Bharat},
+  journal={Theoretical Computer Science},
+  volume={943},
+  pages={203--218},
+  year={2023},
+  publisher={Elsevier}
+}
+
+
+@article{saeed2023detection,
+  title={Detection of Offensive Language and ITS Severity for Low Resource Language},
+  author={Saeed, Ramsha and Afzal, Hammad and Rauf, Sadaf Abdul and Iltaf, Naima},
+  journal={ACM Transactions on Asian and Low-Resource Language Information Processing},
+  volume={22},
+  number={6},
+  pages={1--27},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+
+
+@inproceedings{priyadharshini2023overview,
+  title={Overview of shared-task on abusive comment detection in tamil and telugu},
+  author={Priyadharshini, Ruba and Chakravarthi, Bharathi Raja and Malliga, S and Cn, Subalalitha and Kogilavani, SV and Premjith, B and Murugappan, Abirami and Kumaresan, Prasanna Kumar},
+  booktitle={Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages},
+  pages={80--87},
+  year={2023}
+}
+
+
+@inproceedings{shanmugavadivel2023kec_ai_nlp,
+  title={KEC\_AI\_NLP@ DravidianLangTech: Abusive Comment Detection in Tamil Language},
+  author={Shanmugavadivel, Kogilavani and Subramanian, Malliga and Srigha, S and JS, Sree Harene and others},
+  booktitle={Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages},
+  pages={293--299},
+  year={2023}
+}
+
+
+@inproceedings{palanikumar2023development,
+  title={Development of Multi-lingual Models for Detecting Hope Speech Texts from Social Media Comments},
+  author={Palanikumar, Vasanth and Mohan, Madhoora and Shanmugavadivel, Kogilavani},
+  booktitle={Speech and Language Technologies for Low-Resource Languages: First International Conference, SPELLL 2022, Kalavakkam, India, November 23--25, 2022, Proceedings},
+  pages={209},
+  year={2023},
+  organization={Springer Nature}
+}
+
+
+@article{chakravarthi2023offensive,
+  title={Offensive language identification in dravidian languages using MPNet and CNN},
+  author={Chakravarthi, Bharathi Raja and Jagadeeshan, Manoj Balaji and Palanikumar, Vasanth and Priyadharshini, Ruba},
+  journal={International Journal of Information Management Data Insights},
+  volume={3},
+  number={1},
+  pages={100151},
+  year={2023},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{barman2023hate,
+  title={hate-alert@ DravidianLangTech: Multimodal Abusive Language Detection and Sentiment Analysis in Dravidian Languages},
+  author={Barman, Shubhankar and Das, Mithun},
+  booktitle={Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages},
+  pages={217--224},
+  year={2023}
+}
+
+
+@article{balakrishnan2023tamil,
+  title={Tamil Offensive Language Detection: Supervised versus Unsupervised Learning Approaches},
+  author={Balakrishnan, Vimala and Govindan, Vithyatheri and Govaichelvan, Kumanan N},
+  journal={ACM Transactions on Asian and Low-Resource Language Information Processing},
+  volume={22},
+  number={4},
+  pages={1--14},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+
+
+@article{divya2023transformer,
+  title={Transformer based model for offensive content recognition in dravidian languages},
+  author={Divya, S and Sripriya, N},
+  journal={Brazilian Journal of Development},
+  volume={9},
+  number={12},
+  pages={30656--30667},
+  year={2023}
+}
+
+
+@inproceedings{abeera2023social,
+  title={Social Media Data Analysis for Malayalam YouTube Comments: Sentiment Analysis and Emotion Detection using ML and DL Models},
+  author={Abeera, VP and Kumar, Sachin and Soman, KP},
+  booktitle={Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages},
+  pages={43--51},
+  year={2023}
+}

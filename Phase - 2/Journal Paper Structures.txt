@@ -1,0 +1,147 @@
+Paper - 1:
+
+Title : Auto-OffID: Automatic Detection of Offensive Language in Social Media
+Year : 2021
+
+1. Abstract
+2. Introduction
+3. Related Works
+4. System Design
+	-Architecture
+	4.1 Dataset Description
+		- Sample tweets
+	4.2 Data Pre-Processing
+		- list of pre-processing
+	4.3 Task A - Offensive Language Identification
+		- process flow diagram
+		- Methods used (ex) Emoticon Sentiment Analyzer
+	4.4 Task B - Offensive Type Categorization
+		- process flow diagram
+	4.5 Task C - Offensive Target Identification
+		- process flow
+5. Results and Discussion
+	5.1 Dataset Pre-Processing
+		- transformation stages
+	5.2 Methods used explanation with output image
+6. Conclusion
+7. References
+
+
+Paper 2:
+
+Title : Offensive language identification in Dravidian code-mixed YouTube Comments and Posts
+Year : 2021
+
+1. Abstract
+2. Introduction
+3. Related Works
+4. Methodology
+	4.1 Data Preprocessing
+	4.2 Used Methodologies
+		- architectures
+5. Experiments
+	5.1 Data
+	5.2 Implementation
+		- architecture
+6. Result and Analysis
+7. Discussions
+8. Conclusion
+9. Future Works
+10. Acknowledgements
+11. References
+
+
+Paper 3 : Offensive language identification in Dravidian code mixed social media text
+Year : 2021
+
+1. Abstract
+2. Introduction
+3. Related Works
+4. Task and Data description
+5. Methodology
+	- used methodology's 
+	- table dataset count
+	- architecture
+6. Result
+	- graph output
+7. Result Comparison and Discussion
+	- difference between the precision, recall, F1-score values of all models
+	- output for all models in graph
+8. Conclusion
+9. References
+
+
+Paper 4 : Vietnamese hate and offensive detection using PhoBERT-CNN and social media streaming data
+Year : 2022
+
+1. Abstract
+2. Introduction
+	- Overview
+	- no.of.changes on the datasets after the phase 1
+3. Fundamentals of hate speech detection on streaming data
+	- introduction to hate speech detection
+	- Data pre-processing in hsd
+	- Existing hsd methods
+	- Hate speech detection with streaming data
+4. Proposed hate speech detection system for social media streaming data
+	4.1 Proposed System architecture
+		- figure 1: Proposed Approach
+		- figure 2: Data Preprocessing steps
+	4.2 Data pre-processing
+		- phase 1
+		- phase 2
+	4.3 Dealing with imbalanced data
+	4.4 Proposed Model description
+		- proposed model overview
+	4.5 Integrating hsd model to streaming processing system
+		- streaming data ingestion
+		- instructions streaming processing for hsd
+		- reproducibility of the proposed hsd models
+5. Experiments and results
+	5.1 Experimental procedure
+	5.2 Baseline models for hsd performance	comparision
+		- machine learning approaches 
+		- deep learning approaches
+		- transfer learning approach 
+		- combined approach 
+	5.3 HSD performance evaluation metric
+	5.4 hate speech detection datasets
+	5.5 Experimental settings 
+		- all approaches
+	5.6 Analysis and discussion of experimental results
+		- verifying the performance of the model
+		- error analysis and discussion
+		- augumentation data results
+		- comparision with previous studies 
+		- ablation analysis of proposed method
+		- hate speech detection application with streaming data
+6. Conclusion and future works
+7. Declaration
+8. References
+
+
+Paper 5 : Deep-BERT: Transfer Learning for Classifying Multilingual Offensive Texts on Social Media
+Year : 2022
+
+1. Abstract 
+2. Introduction
+3. Related Works
+4. Methodology
+	- Data Preprocessing
+		- Emoji and Emoticon Conversion
+			- Emojis frequently used
+		- Hashtag Segmentation
+		- Miscellaneous Text Processing
+			- sample texts in dataset
+		- Translation
+	- Feature Engineering
+		- used methodology's and algorithms
+	- proposed model
+5. Result Analysis
+	- Data Description
+	- Performance analysis parameters
+6. Limitation and Future Work
+7. Conclusion
+8. References
+
+ 
